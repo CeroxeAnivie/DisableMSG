@@ -1,0 +1,5 @@
+# 是否禁用玩家加入/退出消息
+disable-join-quit-message: true
+
+# 是否禁用全局成就系统广播
+disable-advancement-broadcast: false
