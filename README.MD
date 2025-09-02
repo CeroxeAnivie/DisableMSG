@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
-DisableMSG是一个轻量级的Paper插件，用于控制Minecraft服务器的玩家加入/退出消息和成就广播系统。通过简单的配置文件即可灵活调整服务器消息设置。
+DisableMSG是一个轻量级的Paper插件，用于禁用Minecraft服务器的玩家加入/退出消息和成就广播系统。通过简单的配置文件即可灵活调整服务器消息设置。
 你没看错，这个插件的功能就是那么简单
 
 ## 功能特性
